@@ -1,2 +1,11 @@
-# Syntecxhub_-Advanced-Interactive-Prototype
-view link=[https://www.figma.com/make/KOov9RsC3bqzFSwhM3E4ps/Advanced-Interactive-Prototype?fullscreen=1&t=Okc1LxIvLkwcoOOk-1&code-node-id=0-9]
+
+  # Advanced Interactive Prototype
+
+  This is a code bundle for Advanced Interactive Prototype. The original project is available at https://www.figma.com/design/KOov9RsC3bqzFSwhM3E4ps/Advanced-Interactive-Prototype.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
